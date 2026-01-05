@@ -1,6 +1,6 @@
 Teamwork & Collaboration (20%)
 To maintain a structured and efficient workflow, our team divided the project into two main domains: Technical Development and Diagnostic Engineering.
-SHAKTIVELL A/L SIVANESWARAN THEVAR — Technical Foundation & System Optimization
+ SHAKTIVELL A/L SIVANESWARAN THEVAR — Technical Foundation & System Optimization
 Built the main image-processing pipeline, introducing a color-space conversion technique that uses the Saturation channel to extract edges more reliably than standard grayscale.
 Carried out comprehensive pre-testing on multiple datasets to identify suitable threshold levels and distance-transform seed points.
 Led the final validation of the Watershed algorithm, ensuring stable segmentation performance for overlapping objects in different background conditions.
